@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "512387816952",
+    "project_id": "novaswap-52998",
+    "storage_bucket": "novaswap-52998.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512387816952:android:18097b93f835a85e0bca0d",
+        "android_client_info": {
+          "package_name": "com.n.novaswapapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "512387816952-spmt8vdcdgp7g0ag2mtl6r7miutat7u6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbN4XKZ_xJFTuNc2KQNh9uUpojOeMm0zo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "512387816952-spmt8vdcdgp7g0ag2mtl6r7miutat7u6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
